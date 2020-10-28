@@ -1,0 +1,37 @@
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap')
+
+
+body {
+background-color: rgb(229, 229, 229);
+color: rgb(30, 30, 30);
+font-family: Metric;
+font-size: 20px;
+font-weight: 699;
+}
+
+
+h1, h2, h3 {
+font-family: 'Lora';
+font-size: 40px;
+}
+
+h3 {
+	color: #869B89;
+	font-size: 60px;
+	font-family: 'Lora';
+padding-top: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+
+
